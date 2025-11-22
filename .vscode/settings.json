@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "miniaudio.h": "c",
+        "time.h": "c"
+    }
+}
